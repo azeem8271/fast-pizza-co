@@ -56,5 +56,7 @@ If you find an issue or would like to add an improvement to this project, feel f
 ## Liked this project ?
 
 Feel free to tell me at:
+<br/>
 Email : <a href="mailto:azeemkhan07082000@gmail.com">azeemkhan07082000@gmail.com</a>
+<br/>
 LinkedIn : <a  href="https://www.linkedin.com/in/azeem8271/">azeem8271</a>
